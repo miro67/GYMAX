@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+ul a{
+    margin-left: 50px;
+}
+header .hi{
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 5%;
+    height: 60vh;
+}
+header .hi p{
+    color: rgb(158, 158, 158);
+}
+main{
+    margin-top: 10%;
+}
+.hi2 img{
+    margin-bottom: 25px;
+    aspect-ratio:3/2;
+    object-fit: cover;
+}
+.hi3 img{
+    border-radius: 50%;
+    width: 50%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+}
+.hi3{
+    background: rgb(243, 243, 243);
+}
+.hi4{
+    /* border-radius: 0; */
+    padding: 0;
+    border: none;
+    /* width: 25%; */
+    margin: 1% auto;
+}
+.hi4 .ht{
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0.90);
+    margin-top: 35%;
+}
+.hi4 img{
+    aspect-ratio:3/2;
+    object-fit: cover;
+}
